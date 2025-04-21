@@ -67,3 +67,9 @@ This modified version is for educational purposes only. The original Interview C
 ## License
 
 This project is licensed under the ISC License.
+
+
+## Other Forks
+* https://github.com/zerodeadbeef/interview-coder
+* https://github.com/mousberg/interview-coder/fork
+* https://github.com/daydiff/interview-coder-no-sub
